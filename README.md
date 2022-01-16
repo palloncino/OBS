@@ -1,4 +1,8 @@
-# Audio 🔊
+# ♺ Reset to Default
+
+got to `/Users/toni/Library/Application Support/obs-studio` and delete the folder
+
+# 🔊 Audio 
 
 ### Recording Screen Audio
 - Go to: ⚙️ > Audio Output Capture
